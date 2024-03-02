@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I'm Héctor Tamayo, an engineer in embedded systems with a solid self-taught background. My focus is on achieving tangible and efficient results, always driven by my passion for technology.
-<br>With growing experience in the design and development of embedded systems, I have spent years refining my technical skills and staying abreast of the latest industry trends. My innate curiosity and constant pursuit of knowledge have led me to explore various fields within engineering, enabling me to gain a holistic view and a capacity for creatively solving problems.<br>
-<br>As an engineer, I take pride in my pragmatic and results-oriented approach. I firmly believe in the importance of quality, efficiency, and innovation in every project I undertake.<br>
+<br>With growing experience in the design and development of embedded systems, I have spent years refining my technical skills and staying abreast of the latest industry trends. My innate curiosity and constant pursuit of knowledge have led me to explore various fields within engineering, enabling me to gain a holistic view and a capacity for creatively solving problems.
+<br>As an engineer, I take pride in my pragmatic and results-oriented approach. I firmly believe in the importance of quality, efficiency, and innovation in every project I undertake.
 <br>Furthermore, I am passionate about sharing my knowledge with others and contributing to the growth of the technical community.<br>
 
 
